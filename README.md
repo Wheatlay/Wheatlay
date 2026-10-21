@@ -1,14 +1,7 @@
-### Hi, I'm Wheatlay
+<a href="https://wheatlay.is-a.dev"><img src="assets/a-banner.png" alt="I build software people use every day. wheatlay.is-a.dev" width="100%"></a>
 
-I build software people use every day: a team's issue tracker, a Windows app you install with winget,
-and a tool that turns messy rental listings into a clear decision.
+<a href="https://exponential-demo.onrender.com"><img src="assets/c-expo.png" alt="Expo: issue tracker where AI agents analyse and ship, and people make the calls. Live demo." width="100%"></a>
+<a href="https://wheatlay.github.io/Buffer/"><img src="assets/c-buffer.png" alt="Buffer: always-on clip recorder for Windows. Project page." width="100%"></a>
+<a href="https://najemnik-demo.onrender.com"><img src="assets/c-najemnik.png" alt="Najemnik: real cost of renting, offers side by side. Live demo." width="100%"></a>
 
-**Portfolio:** [wheatlay.is-a.dev](https://wheatlay.is-a.dev)
-
-| Project | What it is | Try it |
-|---|---|---|
-| **[Expo](https://github.com/Wheatlay/ExpoNential)** | Linear-style issue tracker where AI agents analyse and ship over MCP, and people make the calls. In daily use by a small team. | [Live demo](https://exponential-demo.onrender.com) |
-| **[Buffer](https://github.com/Wheatlay/Buffer)** | Always-on clip recorder and editor for Windows. Rust + Tauri, three audio tracks, live EQ, RGB and fan control. | [Download](https://wheatlay.github.io/Buffer/) · `winget install Wheatlay.Buffer` |
-| **[Najemnik](https://github.com/Wheatlay/Najemnik-demo)** | Renter-side workspace: real monthly and move-in cost, offers side by side, local-LLM enrichment with evidence. | [Live demo](https://najemnik-demo.onrender.com) |
-
-**Stack:** TypeScript · Node.js · React · PostgreSQL · Python · FastAPI · Rust · Tauri · Docker · SQL
+<img src="assets/a-stack.png" alt="TypeScript, Node.js, React, PostgreSQL, Python, FastAPI, Rust, Tauri, Docker" width="100%">
