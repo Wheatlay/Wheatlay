@@ -3,7 +3,7 @@
 <a href="https://exponential-demo.onrender.com"><img src="assets/c-expo.png" alt="ExpoNential: because your progress should be exponential, not linear. Live demo." width="100%"></a>
 <a href="https://wheatlay.is-a.dev/messy-light/"><img src="assets/c-messy.png" alt="Messy Light: Messenger, rewritten. A Go core instead of facebook.com in a window, about 3x less RAM than Meta apps. Project page." width="100%"></a>
 <a href="https://wheatlay.github.io/Buffer/"><img src="assets/c-buffer.png" alt="Buffer: always-on clip recorder for Windows. Project page." width="100%"></a>
-<a href="https://github.com/Wheatlay/sv06-reforged"><img src="assets/c-sv06.png" alt="SV06 Reforged: custom Marlin firmware for the Sovol SV06 3D printer with a spool tracker, night mode, delayed start and a new status screen." width="100%"></a>
+<a href="https://wheatlay.github.io/sv06-reforged/"><img src="assets/c-sv06.png" alt="SV06 Reforged: custom Marlin firmware for the Sovol SV06 3D printer with a spool tracker, night mode, delayed start and a new status screen." width="100%"></a>
 
 <img src="assets/a-stack.png" alt="TypeScript, Node.js, React, PostgreSQL, Python, FastAPI, Rust, Tauri, Go, Docker" width="100%">
 
