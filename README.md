@@ -12,9 +12,8 @@
 - **[Najemnik](https://najemnik-demo.onrender.com)**: real monthly and move-in cost of rentals, offers side by side. Python, FastAPI, HTMX.
 - **[Switchboard for Claude Code](https://github.com/Wheatlay/switchboard-for-claude-code)**: switch Claude Code accounts per window or repo, plan limits in the status bar. VS Code extension.
 - **[Stateful Buttons](https://github.com/Wheatlay/stateful-buttons)**: VS Code status bar buttons that run commands and show live ON/OFF state.
-- **[OrcaSlicer MCP](https://github.com/Wheatlay/orcaslicer-mcp)**: drive OrcaSlicer from Claude or any MCP client: load, tune, slice, analyse.
-- **[Compact Notifications](https://github.com/Wheatlay/compact-notifications)**: Windhawk mod that turns Windows notification banners into compact cards.
-- **[Tanuki](https://github.com/Wheatlay/tanuki)**: proxy for AI security testing that keeps real target data out of LLM API logs.
+- **[OrcaSlicer + MCP](https://github.com/Wheatlay/orcaslicer-mcp)**: my OrcaSlicer fork with a local API and an MCP server, so Claude can load models, tune settings, slice and analyse.
+- **[Compact Notifications](https://github.com/Wheatlay/compact-notifications)**: Windhawk mod that reworks Windows notification banners into compact cards.
 
-CV, experience and project details: **[wheatlay.is-a.dev](https://wheatlay.is-a.dev)**
+Interactive CV with project pages and demos: **[wheatlay.is-a.dev](https://wheatlay.is-a.dev)**
 
